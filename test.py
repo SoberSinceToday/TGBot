@@ -1,4 +1,1 @@
-import os
-
-admin_id = os.getenv('TOKEN')
-print(admin_id)
+#This file was used to try different constructions
